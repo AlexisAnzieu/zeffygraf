@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@alexisanzieu/zeffy-api": "0.0.4",
+    "@alexisanzieu/zeffy-api": "git+https://alexisanzieu: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@github.com/alexisanzieu/zeffy-api.git",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.4"
